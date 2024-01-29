@@ -42,7 +42,6 @@ public class SeleniumTest {
 
         Assert.assertEquals(actualText,expectedText);
 
-
         driver.quit();
 
 
